@@ -1,2 +1,2 @@
-###THIS IS A CLI GREP 
+### THIS IS A CLI GREP 
 This is made using rust docs cli tutorial
